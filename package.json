@@ -4,6 +4,7 @@
   "description": "A collection of palettes that I like to reuse",
   "main": "index.js",
   "scripts": {
+    "build": "npx palette-aldente palettes.yml",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -388,5 +388,15 @@
       "#eabb9b"
     ],
     "name": "Wood King"
+  },
+  {
+    "colors": [
+      "#05021a",
+      "#ea4d57",
+      "#7289da",
+      "#efd34b",
+      "#f6f3f2"
+    ],
+    "name": "Corbeau Orbital"
   }
 ]
