@@ -1,5 +1,5 @@
 
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 936">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 962">
       <style>
         text {
   font-family: sans-serif;
@@ -236,5 +236,10 @@
 <rect width="48" height="10" y="920" x="50" fill="#a9439a" />
 <rect width="48" height="10" y="920" x="100" fill="#001f35" />
 <rect width="48" height="10" y="920" x="150" fill="#9d8d6c" />
+<text y="943" x="3">Artist's Diva</text><rect width="38" height="10" y="946" x="0" fill="#65b6b7" />
+<rect width="38" height="10" y="946" x="40" fill="#34363c" />
+<rect width="38" height="10" y="946" x="80" fill="#7a4f72" />
+<rect width="38" height="10" y="946" x="120" fill="#ccbce8" />
+<rect width="38" height="10" y="946" x="160" fill="#fdf6fe" />
     </svg>
   
