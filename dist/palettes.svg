@@ -1,5 +1,5 @@
 
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 910">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 936">
       <style>
         text {
   font-family: sans-serif;
@@ -232,5 +232,9 @@
 <rect width="38" height="10" y="894" x="80" fill="#7289da" />
 <rect width="38" height="10" y="894" x="120" fill="#efd34b" />
 <rect width="38" height="10" y="894" x="160" fill="#f6f3f2" />
+<text y="917" x="3">Fandango Black</text><rect width="48" height="10" y="920" x="0" fill="#f1f2f3" />
+<rect width="48" height="10" y="920" x="50" fill="#a9439a" />
+<rect width="48" height="10" y="920" x="100" fill="#001f35" />
+<rect width="48" height="10" y="920" x="150" fill="#9d8d6c" />
     </svg>
   

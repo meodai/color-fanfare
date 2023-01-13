@@ -398,5 +398,14 @@
       "#f6f3f2"
     ],
     "name": "Corbeau Orbital"
+  },
+  {
+    "colors": [
+      "#f1f2f3",
+      "#a9439a",
+      "#001f35",
+      "#9d8d6c"
+    ],
+    "name": "Fandango Black"
   }
 ]
