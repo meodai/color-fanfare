@@ -418,5 +418,53 @@
       "#c0b065"
     ],
     "name": "Magic Chalkie"
+  },
+  {
+    "colors": [
+      "#f65057",
+      "#67b347",
+      "#0079bf"
+    ],
+    "name": "Lost Than Hell"
+  },
+  {
+    "colors": [
+      "#ffe900",
+      "#ff47b0",
+      "#62a8e5"
+    ],
+    "name": "Star Windjammer"
+  },
+  {
+    "colors": [
+      "#f65158",
+      "#ffaf3b",
+      "#62c3b1"
+    ],
+    "name": "Butterscotch Than Hell"
+  },
+  {
+    "colors": [
+      "#ffe800",
+      "#435160",
+      "#f65157"
+    ],
+    "name": "Star Mana"
+  },
+  {
+    "colors": [
+      "#925f53",
+      "#938d88",
+      "#ff7577"
+    ],
+    "name": "Petrified Embarrassment"
+  },
+  {
+    "colors": [
+      "#0079bf",
+      "#484d7b",
+      "#ff6d2f"
+    ],
+    "name": "Tangent Life"
   }
 ]

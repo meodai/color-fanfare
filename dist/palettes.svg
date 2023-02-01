@@ -1,5 +1,5 @@
 
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 962">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 1118">
       <style>
         text {
   font-family: sans-serif;
@@ -242,5 +242,23 @@
 <rect width="31.333333333333336" height="10" y="946" x="100" fill="#ccbce8" />
 <rect width="31.333333333333336" height="10" y="946" x="133.33333333333334" fill="#fdf6fe" />
 <rect width="31.333333333333336" height="10" y="946" x="166.66666666666669" fill="#c0b065" />
+<text y="969" x="3">Lost Than Hell</text><rect width="64.66666666666667" height="10" y="972" x="0" fill="#f65057" />
+<rect width="64.66666666666667" height="10" y="972" x="66.66666666666667" fill="#67b347" />
+<rect width="64.66666666666667" height="10" y="972" x="133.33333333333334" fill="#0079bf" />
+<text y="995" x="3">Star Windjammer</text><rect width="64.66666666666667" height="10" y="998" x="0" fill="#ffe900" />
+<rect width="64.66666666666667" height="10" y="998" x="66.66666666666667" fill="#ff47b0" />
+<rect width="64.66666666666667" height="10" y="998" x="133.33333333333334" fill="#62a8e5" />
+<text y="1021" x="3">Butterscotch Than Hell</text><rect width="64.66666666666667" height="10" y="1024" x="0" fill="#f65158" />
+<rect width="64.66666666666667" height="10" y="1024" x="66.66666666666667" fill="#ffaf3b" />
+<rect width="64.66666666666667" height="10" y="1024" x="133.33333333333334" fill="#62c3b1" />
+<text y="1047" x="3">Star Mana</text><rect width="64.66666666666667" height="10" y="1050" x="0" fill="#ffe800" />
+<rect width="64.66666666666667" height="10" y="1050" x="66.66666666666667" fill="#435160" />
+<rect width="64.66666666666667" height="10" y="1050" x="133.33333333333334" fill="#f65157" />
+<text y="1073" x="3">Petrified Embarrassment</text><rect width="64.66666666666667" height="10" y="1076" x="0" fill="#925f53" />
+<rect width="64.66666666666667" height="10" y="1076" x="66.66666666666667" fill="#938d88" />
+<rect width="64.66666666666667" height="10" y="1076" x="133.33333333333334" fill="#ff7577" />
+<text y="1099" x="3">Tangent Life</text><rect width="64.66666666666667" height="10" y="1102" x="0" fill="#0079bf" />
+<rect width="64.66666666666667" height="10" y="1102" x="66.66666666666667" fill="#484d7b" />
+<rect width="64.66666666666667" height="10" y="1102" x="133.33333333333334" fill="#ff6d2f" />
     </svg>
   
