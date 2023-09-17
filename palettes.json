@@ -49,7 +49,7 @@
       "#947b98",
       "#786488"
     ],
-    "name": "Acapulco Pomegranate"
+    "name": "Mexican Nugget"
   },
   {
     "colors": [
@@ -104,7 +104,7 @@
       "#edc5bb",
       "#dbf5dc"
     ],
-    "name": "Reptile Flip"
+    "name": "Reptile Teak"
   },
   {
     "colors": [
@@ -115,7 +115,7 @@
       "#ec9699",
       "#dfc3c7"
     ],
-    "name": "Nymph's Love"
+    "name": "Nymph’s Nuit"
   },
   {
     "colors": [
@@ -139,7 +139,7 @@
       "#bca357",
       "#516b9e"
     ],
-    "name": "Tandoori Desert"
+    "name": "Puffy Desert"
   },
   {
     "author": "ippsketch",
@@ -154,7 +154,7 @@
       "#516b9e",
       "#656198"
     ],
-    "name": "Nero Desert"
+    "name": "Kale Pheasant"
   },
   {
     "name": "Brutal Tomato",
@@ -288,7 +288,7 @@
       "#d99191",
       "#f2f2f2"
     ],
-    "name": "Silverfish Nero"
+    "name": "Poppy Grapevine"
   },
   {
     "colors": [
@@ -377,7 +377,7 @@
       "#e1835a",
       "#e9a97e"
     ],
-    "name": "Nymph's Coin"
+    "name": "Sage Coin"
   },
   {
     "colors": [
@@ -397,7 +397,7 @@
       "#efd34b",
       "#f6f3f2"
     ],
-    "name": "Corbeau Orbital"
+    "name": "Corbeau Watermelonade"
   },
   {
     "colors": [
@@ -465,6 +465,80 @@
       "#484d7b",
       "#ff6d2f"
     ],
-    "name": "Tangent Life"
+    "name": "Tangent Carrot"
+  },
+  {
+    "name": "Walter Ballmer 'Olivetti' Collection",
+    "palettes": [
+      {
+        "colors": [
+          "#29274d",
+          "#194181",
+          "#5daa54",
+          "#f1a83b",
+          "#ea5b2e"
+        ],
+        "name": "Maritime Gold"
+      },
+      {
+        "colors": [
+          "#3b582b",
+          "#7ebb77",
+          "#fdf7fd",
+          "#ec6484",
+          "#855587"
+        ],
+        "name": "Bud Chalkie"
+      },
+      {
+        "colors": [
+          "#f6fdff",
+          "#0d264b",
+          "#265b9d",
+          "#4294c3",
+          "#823586",
+          "#564cad"
+        ],
+        "name": "Dark Tuxedo"
+      },
+      {
+        "colors": [
+          "#d34544",
+          "#3a3936",
+          "#999484",
+          "#efebe7"
+        ],
+        "name": "Nomad Moonlight"
+      },
+      {
+        "colors": [
+          "#e8e4d9",
+          "#b4bbb6",
+          "#ddab3a",
+          "#9f3627",
+          "#2c5c4f",
+          "#233266"
+        ],
+        "name": "Metal Brick"
+      },
+      {
+        "colors": [
+          "#3f222e",
+          "#3675b5",
+          "#49a2cf",
+          "#fdfbfc"
+        ],
+        "name": "Snowman Castro"
+      },
+      {
+        "colors": [
+          "#fefdf9",
+          "#f2d161",
+          "#888486",
+          "#232428"
+        ],
+        "name": "Lotion Sprinkles"
+      }
+    ]
   }
 ]

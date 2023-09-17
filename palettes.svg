@@ -1,5 +1,5 @@
 
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 1118">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 1300">
       <style>
         text {
   font-family: sans-serif;
@@ -28,7 +28,7 @@
 <rect width="26.571428571428573" height="10" y="62" x="114.28571428571429" fill="#d6a786" />
 <rect width="26.571428571428573" height="10" y="62" x="142.85714285714286" fill="#e5c9b5" />
 <rect width="26.571428571428573" height="10" y="62" x="171.42857142857144" fill="#f7ebda" />
-<text y="85" x="3">Acapulco Pomegranate</text><rect width="12.285714285714286" height="10" y="88" x="0" fill="#f2ebdf" />
+<text y="85" x="3">Mexican Nugget</text><rect width="12.285714285714286" height="10" y="88" x="0" fill="#f2ebdf" />
 <rect width="12.285714285714286" height="10" y="88" x="14.285714285714286" fill="#353130" />
 <rect width="12.285714285714286" height="10" y="88" x="28.571428571428573" fill="#2f72a6" />
 <rect width="12.285714285714286" height="10" y="88" x="42.85714285714286" fill="#4e90c0" />
@@ -66,13 +66,13 @@
 <rect width="31.333333333333336" height="10" y="192" x="100" fill="#ffffff" />
 <rect width="31.333333333333336" height="10" y="192" x="133.33333333333334" fill="#abfcf8" />
 <rect width="31.333333333333336" height="10" y="192" x="166.66666666666669" fill="#b9fdd6" />
-<text y="215" x="3">Reptile Flip</text><rect width="31.333333333333336" height="10" y="218" x="0" fill="#0f1910" />
+<text y="215" x="3">Reptile Teak</text><rect width="31.333333333333336" height="10" y="218" x="0" fill="#0f1910" />
 <rect width="31.333333333333336" height="10" y="218" x="33.333333333333336" fill="#615829" />
 <rect width="31.333333333333336" height="10" y="218" x="66.66666666666667" fill="#af8e4f" />
 <rect width="31.333333333333336" height="10" y="218" x="100" fill="#e39e90" />
 <rect width="31.333333333333336" height="10" y="218" x="133.33333333333334" fill="#edc5bb" />
 <rect width="31.333333333333336" height="10" y="218" x="166.66666666666669" fill="#dbf5dc" />
-<text y="241" x="3">Nymph's Love</text><rect width="31.333333333333336" height="10" y="244" x="0" fill="#36343f" />
+<text y="241" x="3">Nymph’s Nuit</text><rect width="31.333333333333336" height="10" y="244" x="0" fill="#36343f" />
 <rect width="31.333333333333336" height="10" y="244" x="33.333333333333336" fill="#3e4c69" />
 <rect width="31.333333333333336" height="10" y="244" x="66.66666666666667" fill="#726382" />
 <rect width="31.333333333333336" height="10" y="244" x="100" fill="#c97481" />
@@ -86,12 +86,12 @@
 <rect width="23" height="10" y="270" x="125" fill="#bc5b34" />
 <rect width="23" height="10" y="270" x="150" fill="#d4a44f" />
 <rect width="23" height="10" y="270" x="175" fill="#395d54" />
-<text y="293" x="3">Tandoori Desert</text><rect width="38" height="10" y="296" x="0" fill="#ebe7e0" />
+<text y="293" x="3">Puffy Desert</text><rect width="38" height="10" y="296" x="0" fill="#ebe7e0" />
 <rect width="38" height="10" y="296" x="40" fill="#262626" />
 <rect width="38" height="10" y="296" x="80" fill="#bc594e" />
 <rect width="38" height="10" y="296" x="120" fill="#bca357" />
 <rect width="38" height="10" y="296" x="160" fill="#516b9e" />
-<text y="319" x="3">Nero Desert</text><rect width="20.22222222222222" height="10" y="322" x="0" fill="#ebe7e0" />
+<text y="319" x="3">Kale Pheasant</text><rect width="20.22222222222222" height="10" y="322" x="0" fill="#ebe7e0" />
 <rect width="20.22222222222222" height="10" y="322" x="22.22222222222222" fill="#262626" />
 <rect width="20.22222222222222" height="10" y="322" x="44.44444444444444" fill="#bc594e" />
 <rect width="20.22222222222222" height="10" y="322" x="66.66666666666666" fill="#bf7e4f" />
@@ -151,7 +151,7 @@
 <rect width="38" height="10" y="582" x="80" fill="#e59500" />
 <rect width="38" height="10" y="582" x="120" fill="#9bbdad" />
 <rect width="38" height="10" y="582" x="160" fill="#e61500" />
-<text y="605" x="3">Silverfish Nero</text><rect width="5.407407407407407" height="10" y="608" x="0" fill="#1b618c" />
+<text y="605" x="3">Poppy Grapevine</text><rect width="5.407407407407407" height="10" y="608" x="0" fill="#1b618c" />
 <rect width="5.407407407407407" height="10" y="608" x="7.407407407407407" fill="#55ccd9" />
 <rect width="5.407407407407407" height="10" y="608" x="14.814814814814815" fill="#f2bc57" />
 <rect width="5.407407407407407" height="10" y="608" x="22.22222222222222" fill="#f24949" />
@@ -217,7 +217,7 @@
 <rect width="38" height="10" y="816" x="80" fill="#ae2b29" />
 <rect width="38" height="10" y="816" x="120" fill="#e39736" />
 <rect width="38" height="10" y="816" x="160" fill="#e5d3d0" />
-<text y="839" x="3">Nymph's Coin</text><rect width="38" height="10" y="842" x="0" fill="#57333b" />
+<text y="839" x="3">Sage Coin</text><rect width="38" height="10" y="842" x="0" fill="#57333b" />
 <rect width="38" height="10" y="842" x="40" fill="#7c699a" />
 <rect width="38" height="10" y="842" x="80" fill="#7faa6a" />
 <rect width="38" height="10" y="842" x="120" fill="#e1835a" />
@@ -227,7 +227,7 @@
 <rect width="38" height="10" y="868" x="80" fill="#cb5530" />
 <rect width="38" height="10" y="868" x="120" fill="#e1a03c" />
 <rect width="38" height="10" y="868" x="160" fill="#eabb9b" />
-<text y="891" x="3">Corbeau Orbital</text><rect width="38" height="10" y="894" x="0" fill="#05021a" />
+<text y="891" x="3">Corbeau Watermelonade</text><rect width="38" height="10" y="894" x="0" fill="#05021a" />
 <rect width="38" height="10" y="894" x="40" fill="#ea4d57" />
 <rect width="38" height="10" y="894" x="80" fill="#7289da" />
 <rect width="38" height="10" y="894" x="120" fill="#efd34b" />
@@ -257,8 +257,42 @@
 <text y="1073" x="3">Petrified Embarrassment</text><rect width="64.66666666666667" height="10" y="1076" x="0" fill="#925f53" />
 <rect width="64.66666666666667" height="10" y="1076" x="66.66666666666667" fill="#938d88" />
 <rect width="64.66666666666667" height="10" y="1076" x="133.33333333333334" fill="#ff7577" />
-<text y="1099" x="3">Tangent Life</text><rect width="64.66666666666667" height="10" y="1102" x="0" fill="#0079bf" />
+<text y="1099" x="3">Tangent Carrot</text><rect width="64.66666666666667" height="10" y="1102" x="0" fill="#0079bf" />
 <rect width="64.66666666666667" height="10" y="1102" x="66.66666666666667" fill="#484d7b" />
 <rect width="64.66666666666667" height="10" y="1102" x="133.33333333333334" fill="#ff6d2f" />
+<text y="1125" x="3">Maritime Gold</text><rect width="38" height="10" y="1128" x="0" fill="#29274d" />
+<rect width="38" height="10" y="1128" x="40" fill="#194181" />
+<rect width="38" height="10" y="1128" x="80" fill="#5daa54" />
+<rect width="38" height="10" y="1128" x="120" fill="#f1a83b" />
+<rect width="38" height="10" y="1128" x="160" fill="#ea5b2e" />
+<text y="1151" x="3">Bud Chalkie</text><rect width="38" height="10" y="1154" x="0" fill="#3b582b" />
+<rect width="38" height="10" y="1154" x="40" fill="#7ebb77" />
+<rect width="38" height="10" y="1154" x="80" fill="#fdf7fd" />
+<rect width="38" height="10" y="1154" x="120" fill="#ec6484" />
+<rect width="38" height="10" y="1154" x="160" fill="#855587" />
+<text y="1177" x="3">Dark Tuxedo</text><rect width="31.333333333333336" height="10" y="1180" x="0" fill="#f6fdff" />
+<rect width="31.333333333333336" height="10" y="1180" x="33.333333333333336" fill="#0d264b" />
+<rect width="31.333333333333336" height="10" y="1180" x="66.66666666666667" fill="#265b9d" />
+<rect width="31.333333333333336" height="10" y="1180" x="100" fill="#4294c3" />
+<rect width="31.333333333333336" height="10" y="1180" x="133.33333333333334" fill="#823586" />
+<rect width="31.333333333333336" height="10" y="1180" x="166.66666666666669" fill="#564cad" />
+<text y="1203" x="3">Nomad Moonlight</text><rect width="48" height="10" y="1206" x="0" fill="#d34544" />
+<rect width="48" height="10" y="1206" x="50" fill="#3a3936" />
+<rect width="48" height="10" y="1206" x="100" fill="#999484" />
+<rect width="48" height="10" y="1206" x="150" fill="#efebe7" />
+<text y="1229" x="3">Metal Brick</text><rect width="31.333333333333336" height="10" y="1232" x="0" fill="#e8e4d9" />
+<rect width="31.333333333333336" height="10" y="1232" x="33.333333333333336" fill="#b4bbb6" />
+<rect width="31.333333333333336" height="10" y="1232" x="66.66666666666667" fill="#ddab3a" />
+<rect width="31.333333333333336" height="10" y="1232" x="100" fill="#9f3627" />
+<rect width="31.333333333333336" height="10" y="1232" x="133.33333333333334" fill="#2c5c4f" />
+<rect width="31.333333333333336" height="10" y="1232" x="166.66666666666669" fill="#233266" />
+<text y="1255" x="3">Snowman Castro</text><rect width="48" height="10" y="1258" x="0" fill="#3f222e" />
+<rect width="48" height="10" y="1258" x="50" fill="#3675b5" />
+<rect width="48" height="10" y="1258" x="100" fill="#49a2cf" />
+<rect width="48" height="10" y="1258" x="150" fill="#fdfbfc" />
+<text y="1281" x="3">Lotion Sprinkles</text><rect width="48" height="10" y="1284" x="0" fill="#fefdf9" />
+<rect width="48" height="10" y="1284" x="50" fill="#f2d161" />
+<rect width="48" height="10" y="1284" x="100" fill="#888486" />
+<rect width="48" height="10" y="1284" x="150" fill="#232428" />
     </svg>
   
