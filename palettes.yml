@@ -15,6 +15,7 @@
     - '#c8afbc'
     - '#f6cab4'
 
+
 - name: Lobster Café
   colors:
     - '#312512' 
@@ -98,6 +99,23 @@
   - '#bc5b34'
   - '#d4a44f'
   - '#395d54'
+
+-
+  author: 'rickacrane'
+  colors:
+    - '#b5a9a8'
+    - '#e7e9e4'
+    - '#e3908c'
+    - '#e9a392'
+    - '#efbfa0'
+    - '#abd2ca'
+    - '#90c1bb'
+    - '#8daab6'
+    - '#768f9f'
+    - '#8a7995'
+    - '#a9859e'
+    - '#d09fab'
+    - '#28364a'
 
 -
   author: 'ippsketch'
