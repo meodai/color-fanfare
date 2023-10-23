@@ -1,5 +1,5 @@
 
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 1326">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 1352">
       <style>
         text {
   font-family: sans-serif;
@@ -86,7 +86,7 @@
 <rect width="23" height="10" y="270" x="125" fill="#bc5b34" />
 <rect width="23" height="10" y="270" x="150" fill="#d4a44f" />
 <rect width="23" height="10" y="270" x="175" fill="#395d54" />
-<text y="293" x="3">Riverbed Memory</text><rect width="13.384615384615385" height="10" y="296" x="0" fill="#b5a9a8" />
+<text y="293" x="3">Pink Vintage</text><rect width="13.384615384615385" height="10" y="296" x="0" fill="#b5a9a8" />
 <rect width="13.384615384615385" height="10" y="296" x="15.384615384615385" fill="#e7e9e4" />
 <rect width="13.384615384615385" height="10" y="296" x="30.76923076923077" fill="#e3908c" />
 <rect width="13.384615384615385" height="10" y="296" x="46.15384615384615" fill="#e9a392" />
@@ -235,7 +235,7 @@
 <rect width="38" height="10" y="868" x="80" fill="#7faa6a" />
 <rect width="38" height="10" y="868" x="120" fill="#e1835a" />
 <rect width="38" height="10" y="868" x="160" fill="#e9a97e" />
-<text y="891" x="3">Wood King</text><rect width="38" height="10" y="894" x="0" fill="#2c6066" />
+<text y="891" x="3">Wood Campfire</text><rect width="38" height="10" y="894" x="0" fill="#2c6066" />
 <rect width="38" height="10" y="894" x="40" fill="#362a24" />
 <rect width="38" height="10" y="894" x="80" fill="#cb5530" />
 <rect width="38" height="10" y="894" x="120" fill="#e1a03c" />
@@ -307,5 +307,12 @@
 <rect width="48" height="10" y="1310" x="50" fill="#f2d161" />
 <rect width="48" height="10" y="1310" x="100" fill="#888486" />
 <rect width="48" height="10" y="1310" x="150" fill="#232428" />
+<text y="1333" x="3">Peach Orangina</text><rect width="26.571428571428573" height="10" y="1336" x="0" fill="#ff8f1c" />
+<rect width="26.571428571428573" height="10" y="1336" x="28.571428571428573" fill="#6bdcc5" />
+<rect width="26.571428571428573" height="10" y="1336" x="57.142857142857146" fill="#ffb3ab" />
+<rect width="26.571428571428573" height="10" y="1336" x="85.71428571428572" fill="#fac300" />
+<rect width="26.571428571428573" height="10" y="1336" x="114.28571428571429" fill="#5e96ff" />
+<rect width="26.571428571428573" height="10" y="1336" x="142.85714285714286" fill="#ebebeb" />
+<rect width="26.571428571428573" height="10" y="1336" x="171.42857142857144" fill="#000000" />
     </svg>
   

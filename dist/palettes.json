@@ -147,7 +147,7 @@
       "#d09fab",
       "#28364a"
     ],
-    "name": "Riverbed Memory"
+    "name": "Pink Vintage"
   },
   {
     "author": "ippsketch",
@@ -406,7 +406,7 @@
       "#e1a03c",
       "#eabb9b"
     ],
-    "name": "Wood King"
+    "name": "Wood Campfire"
   },
   {
     "colors": [
@@ -557,6 +557,23 @@
           "#232428"
         ],
         "name": "Lotion Sprinkles"
+      }
+    ]
+  },
+  {
+    "name": "Misc",
+    "palettes": [
+      {
+        "colors": [
+          "#ff8f1c",
+          "#6bdcc5",
+          "#ffb3ab",
+          "#fac300",
+          "#5e96ff",
+          "#ebebeb",
+          "#000000"
+        ],
+        "name": "Peach Orangina"
       }
     ]
   }
